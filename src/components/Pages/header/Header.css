@@ -1,0 +1,21 @@
+.pro {
+    display: flex;
+}
+
+.pro span {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(164, 165, 165);
+}
+
+.pro h3 {
+    margin-top: -0px;
+}
+
+.main {
+
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid;
+    border-color: aliceblue;
+}

@@ -1,0 +1,21 @@
+#link-css{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+
+    
+}
+#link-flex{
+    display: flex;
+    margin-left: 10px;
+    
+}
+#icon-flex{
+    margin-top: 25px;
+}
+.bas{
+    display: flex;
+    gap: 30px;
+    /* height: 95%; */
+    
+}

@@ -1,0 +1,28 @@
+#com{
+    display: flex;
+    /* justify-content: space-around; */
+    /* margin-left: 211px; */
+    /* margin-top: 40px; */
+}
+.Logo{
+    display:flex;
+    justify-content: center;
+}
+.Logo .icon{
+    width: 80px;
+    margin-top: 10px;
+    border-radius: 100px;
+    height: auto;
+    font-size: 1rem;
+}
+.mini-icon{
+    width: 30px;
+    margin-top: 10px;
+}
+.item {
+    display: flex;
+    justify-items: center;
+}
+.nav{
+    margin-top: 20px;
+}

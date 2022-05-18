@@ -1,0 +1,47 @@
+.p-box p{
+    width: 90%;
+    /* background-color: azure; */
+    padding: 40px 10px 40px 10px;
+    border-radius: 10px;
+    border: solid 0.1px rgb(231, 228, 228);
+}
+.m-box{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.pop-css{
+    display: flex;
+    justify-content: space-between;
+    width: 56%;
+}
+.out-box{
+    border: solid 0.1PX;
+    padding: 10px;
+    display: flex;  
+    width: 150px;  
+    justify-content: space-between;
+    text-align: center;
+}
+.color-box{
+    color: blue;
+    width: 40px;
+    height: 30px;
+    background-color: rgb(121, 121, 231);
+    border: solid 0.1px rgb(231, 228, 228);
+}
+.t-box{
+    margin-top: 30px;
+}
+.style-box{
+    display: flex;
+    border: solid 0.1px rgb(231, 228, 228);
+    justify-content: space-evenly;
+    padding: 10px 0px 5px;
+    align-items: center;
+}
+.accent-css{
+    display: flex;
+    width: 85%;
+}

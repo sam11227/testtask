@@ -1,0 +1,13 @@
+.main-box{
+    display: flex;
+}
+.mainContainer{
+    width: 100%;
+    /* color: aqua; */
+}
+.content{
+    display: flex;
+}
+.gap{
+    padding: 20px;
+}

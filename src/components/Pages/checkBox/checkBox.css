@@ -1,0 +1,20 @@
+.btn-fit{
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.box-one{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 100%;
+}

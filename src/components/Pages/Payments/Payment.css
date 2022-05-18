@@ -1,0 +1,28 @@
+.way-css{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: baseline;
+
+}
+.sb-box{
+    width: 30%;
+}
+.gate-css{
+    width: 65%;
+
+}
+.kyc-css{
+    background-color: rgb(234, 188, 230);
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+} 
+.left{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.ver-css{
+    display: flex;
+    align-items: baseline;
+    margin-top: 15px;
+}

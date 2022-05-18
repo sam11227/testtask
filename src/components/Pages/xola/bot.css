@@ -1,0 +1,14 @@
+.bot-css{
+    display: flex;
+    justify-content: space-between;
+}
+.bot-css a{
+    color: black;
+    font-weight: 600;
+}
+.bot-css i {
+    margin-top: 10px;
+}
+hr{
+    color: floralwhite; ;
+}

@@ -1,0 +1,10 @@
+.content-email{
+    background-color: hsl(206deg 100% 83%);
+    width: 100%;
+    border-radius: 12px;
+    padding: 5px 10px;
+}
+.email{
+    /* width: inherit; */
+    /* width: 70% */
+}

@@ -1,0 +1,22 @@
+.numb{
+    width: 50px;
+    text-align: center;
+    border-radius: 50%;
+    border: solid black 0.1px;
+    padding: 5px 0px 5px 0px;
+}
+.numb h3{
+    font-size: 20px;
+}
+.contnt h3{
+    font-weight: 800px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.side-box{
+    width: 70%;
+}
+.third{
+font-size: 12px;
+color: gray;
+}
